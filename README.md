@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Tumelo Neo Mofokeng
 
-<!--
-**tumineo/tumineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced Diploma in Information Technology 
 
-Here are some ideas to get you started:
+Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity Enthusiast
+
+---
+
+##  About Me
+
+I enjoy building desktop, web and mobile applications using modern technologies such as C#, ASP.NET Core, Flutter, SQL Server, and Unity. I'm passionate about solving real-world problems through software and continuously improving my technical skills.
+
+---
+
+##  Technologies
+
+- C#
+- Python
+- ASP.NET Core MVC
+- Flutter
+- SQL 
+- Firebase
+- Unity
+- JavaScript
+- HTML
+- CSS
+
+---
+
+##  Connect With Me
+
+- LinkedIn: https: https://www.linkedin.com/in/tumelo-mofokeng-5a9438292/
+- Portfolio Website: https://tumelomofokeng-portfolio.netlify.app/
+- Email: tumineo8@gmail.com
