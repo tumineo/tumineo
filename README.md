@@ -2,12 +2,6 @@
 
 Advanced Diploma in Information Technology 
 
-Full-Stack Developer
-
-Cloud computing Enthusiast
-
-Cybersecurity Enthusiast
-
 ---
 
 ##  About Me
